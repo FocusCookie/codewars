@@ -1,9 +1,5 @@
 function dirReduc(arr) {
-  let result = [];
-
-  //TODO:FINISH
-
-  return dirReduc(arr);
+  //TODO: FINISH
 }
 
 console.log(
