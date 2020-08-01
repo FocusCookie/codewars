@@ -10,3 +10,4 @@ function dblLinear(n) {
 }
 
 console.log(dblLinear(20));
+//TODO: NOT FINISHED DIDNT understood the exercise.... sequence
